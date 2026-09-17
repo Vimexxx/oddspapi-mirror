@@ -1,0 +1,62 @@
+{
+  "ok": true,
+  "game": "dota2",
+  "sportId": 16,
+  "from": "2026-09-17T00:52:36.323Z",
+  "to": "2026-09-24T02:52:36.323Z",
+  "count": 4,
+  "matches": [
+    {
+      "fixtureId": "id1603802974777234",
+      "sportId": 16,
+      "tournamentId": 38029,
+      "tournament": "European Pro League",
+      "category": "EPL",
+      "team1": "Zero Tenacity",
+      "team2": "Balu Team",
+      "startTime": "2026-09-17T09:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1603802974665680",
+      "sportId": 16,
+      "tournamentId": 38029,
+      "tournament": "European Pro League",
+      "category": "EPL",
+      "team1": "Team Spirit Academy",
+      "team2": "Two Move",
+      "startTime": "2026-09-17T12:00:00.000Z",
+      "statusId": 0,
+      "statusName": "Pre-Game",
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1603802974606192",
+      "sportId": 16,
+      "tournamentId": 38029,
+      "tournament": "European Pro League",
+      "category": "EPL",
+      "team1": "Nemiga Gaming",
+      "team2": "Team Lynx",
+      "startTime": "2026-09-17T15:00:00.000Z",
+      "statusId": 0,
+      "statusName": "Pre-Game",
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1603802974606196",
+      "sportId": 16,
+      "tournamentId": 38029,
+      "tournament": "European Pro League",
+      "category": "EPL",
+      "team1": "Yellow Submarine",
+      "team2": "Kalmychata",
+      "startTime": "2026-09-19T15:00:00.000Z",
+      "statusId": 0,
+      "statusName": "Pre-Game",
+      "hasOdds": true
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "fixtureId": "id1705112674781708",
+  "data": {
+    "fixtureId": "id1705112674781708",
+    "participant1Id": 1202673,
+    "participant2Id": 1341544,
+    "sportId": 17,
+    "tournamentId": 51126,
+    "seasonId": null,
+    "statusId": null,
+    "hasOdds": true,
+    "startTime": "2026-09-17T21:00:00.000Z",
+    "trueStartTime": null,
+    "trueEndTime": null,
+    "updatedAt": "2026-09-17T02:20:46.324Z",
+    "externalProviders": {
+      "betradarId": 74781708,
+      "mollybetId": null,
+      "opticoddsId": null,
+      "lsportsId": null,
+      "txoddsId": null,
+      "sofascoreId": null,
+      "betgeniusId": null,
+      "flashscoreId": null,
+      "pinnacleId": null,
+      "oddinId": null
+    },
+    "participant1Name": "Bestia Academy",
+    "participant1ShortName": "Bestia Academy",
+    "participant1Abbr": "BES",
+    "participant2Name": "Quintessencia",
+    "sportName": "ESport Counter-Strike",
+    "tournamentSlug": "cct-south-america-challengers",
+    "categorySlug": "cct",
+    "categoryName": "CCT",
+    "tournamentName": "CCT South America Challengers"
+  }
+}
