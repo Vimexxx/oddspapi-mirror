@@ -2,9 +2,9 @@
   "ok": true,
   "game": "cs2",
   "sportId": 17,
-  "from": "2026-09-17T00:52:22.457Z",
-  "to": "2026-09-24T02:52:22.457Z",
-  "count": 44,
+  "from": "2026-09-17T06:03:38.401Z",
+  "to": "2026-09-24T08:03:38.401Z",
+  "count": 52,
   "matches": [
     {
       "fixtureId": "id1704460974746270",
@@ -20,6 +20,19 @@
       "hasOdds": true
     },
     {
+      "fixtureId": "id1704956874783288",
+      "sportId": 17,
+      "tournamentId": 49568,
+      "tournament": "NODWIN Clutch Series",
+      "category": "NODWIN Gaming",
+      "team1": "Team Quazar",
+      "team2": "Brute",
+      "startTime": "2026-09-17T08:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
+      "hasOdds": true
+    },
+    {
       "fixtureId": "id1705112274775252",
       "sportId": 17,
       "tournamentId": 51122,
@@ -28,8 +41,8 @@
       "team1": "Bushido Wildcats",
       "team2": "Azuolas",
       "startTime": "2026-09-17T08:00:00.000Z",
-      "statusId": null,
-      "statusName": null,
+      "statusId": 0,
+      "statusName": "Pre-Game",
       "hasOdds": true
     },
     {
@@ -41,6 +54,19 @@
       "team1": "Metizport",
       "team2": "B8",
       "startTime": "2026-09-17T08:00:00.000Z",
+      "statusId": 0,
+      "statusName": "Pre-Game",
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1705306674612934",
+      "sportId": 17,
+      "tournamentId": 53066,
+      "tournament": "Circuito Retake",
+      "category": "Hyped",
+      "team1": "Fazeupnext",
+      "team2": "Nt",
+      "startTime": "2026-09-17T08:15:00.000Z",
       "statusId": 0,
       "statusName": "Pre-Game",
       "hasOdds": true
@@ -215,6 +241,32 @@
       "hasOdds": true
     },
     {
+      "fixtureId": "id1705112274775276",
+      "sportId": 17,
+      "tournamentId": 51122,
+      "tournament": "CCT European Series",
+      "category": "CCT",
+      "team1": "ENCE",
+      "team2": "Honved Esport",
+      "startTime": "2026-09-17T14:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1705272074783308",
+      "sportId": 17,
+      "tournamentId": 52720,
+      "tournament": "Fiesta Series",
+      "category": "Exort",
+      "team1": "Wraith PCIFIC",
+      "team2": "Phantom Academy",
+      "startTime": "2026-09-17T14:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
+      "hasOdds": true
+    },
+    {
       "fixtureId": "id1705292874554518",
       "sportId": 17,
       "tournamentId": 52928,
@@ -301,8 +353,8 @@
       "team1": "Team Spirit Academy",
       "team2": "Nexus Gaming",
       "startTime": "2026-09-17T17:00:00.000Z",
-      "statusId": null,
-      "statusName": null,
+      "statusId": 0,
+      "statusName": "Pre-Game",
       "hasOdds": true
     },
     {
@@ -332,6 +384,19 @@
       "hasOdds": true
     },
     {
+      "fixtureId": "id1705112674783282",
+      "sportId": 17,
+      "tournamentId": 51126,
+      "tournament": "CCT South America Challengers",
+      "category": "CCT",
+      "team1": "Gremio",
+      "team2": "Meia Noite",
+      "startTime": "2026-09-17T21:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
+      "hasOdds": true
+    },
+    {
       "fixtureId": "id1705112674752890",
       "sportId": 17,
       "tournamentId": 51126,
@@ -340,8 +405,8 @@
       "team1": "Underw0Rld",
       "team2": "Your End",
       "startTime": "2026-09-17T23:45:00.000Z",
-      "statusId": null,
-      "statusName": null,
+      "statusId": 0,
+      "statusName": "Pre-Game",
       "hasOdds": true
     },
     {
@@ -353,6 +418,19 @@
       "team1": "Rush eSports (Bra)",
       "team2": "Sementes Do Mal",
       "startTime": "2026-09-17T23:45:00.000Z",
+      "statusId": 0,
+      "statusName": "Pre-Game",
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1705112274783330",
+      "sportId": 17,
+      "tournamentId": 51122,
+      "tournament": "CCT European Series",
+      "category": "CCT",
+      "team1": "G2 Ares",
+      "team2": "Leo Team",
+      "startTime": "2026-09-18T08:00:00.000Z",
       "statusId": null,
       "statusName": null,
       "hasOdds": true
@@ -514,6 +592,19 @@
       "hasOdds": true
     },
     {
+      "fixtureId": "id1705112274783334",
+      "sportId": 17,
+      "tournamentId": 51122,
+      "tournament": "CCT European Series",
+      "category": "CCT",
+      "team1": "Team Quazar",
+      "team2": "Natus Vincere Junior",
+      "startTime": "2026-09-18T14:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
+      "hasOdds": true
+    },
+    {
       "fixtureId": "id1705292874570868",
       "sportId": 17,
       "tournamentId": 52928,
@@ -574,6 +665,19 @@
       "team1": "Infinite",
       "team2": "3Dmax",
       "startTime": "2026-09-18T15:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1705112274783336",
+      "sportId": 17,
+      "tournamentId": 51122,
+      "tournament": "CCT European Series",
+      "category": "CCT",
+      "team1": "Baks eSports",
+      "team2": "Ex-Rustec",
+      "startTime": "2026-09-18T17:00:00.000Z",
       "statusId": null,
       "statusName": null,
       "hasOdds": true
