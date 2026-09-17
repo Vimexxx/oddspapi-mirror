@@ -1,0 +1,40 @@
+name: Update OddsPapi Mirror
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update mirror
+        run: python mirror.py
+
+      - name: Commit updated JSON
+        run: |
+          git config user.name "odds-mirror-bot"
+          git config user.email "actions@github.com"
+          git add data/
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "Update OddsPapi mirror"
+          git push
