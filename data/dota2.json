@@ -2,23 +2,10 @@
   "ok": true,
   "game": "dota2",
   "sportId": 16,
-  "from": "2026-09-17T06:03:51.965Z",
-  "to": "2026-09-24T08:03:51.965Z",
-  "count": 5,
+  "from": "2026-09-17T11:24:12.089Z",
+  "to": "2026-09-24T13:24:12.089Z",
+  "count": 10,
   "matches": [
-    {
-      "fixtureId": "id1603802974777234",
-      "sportId": 16,
-      "tournamentId": 38029,
-      "tournament": "European Pro League",
-      "category": "EPL",
-      "team1": "Zero Tenacity",
-      "team2": "Balu Team",
-      "startTime": "2026-09-17T09:00:00.000Z",
-      "statusId": null,
-      "statusName": null,
-      "hasOdds": true
-    },
     {
       "fixtureId": "id1603802974665680",
       "sportId": 16,
@@ -54,6 +41,58 @@
       "team1": "Kalmychata",
       "team2": "Uralan",
       "startTime": "2026-09-17T18:00:00.000Z",
+      "statusId": 0,
+      "statusName": "Pre-Game",
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1604272574794450",
+      "sportId": 16,
+      "tournamentId": 42725,
+      "tournament": "PGL Wallachia",
+      "category": "PGL Dota2",
+      "team1": "Iron Wing",
+      "team2": "Team Nemesis",
+      "startTime": "2026-09-19T07:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1604272574794454",
+      "sportId": 16,
+      "tournamentId": 42725,
+      "tournament": "PGL Wallachia",
+      "category": "PGL Dota2",
+      "team1": "Conventus Stellarum",
+      "team2": "Playtime",
+      "startTime": "2026-09-19T10:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1604272574794966",
+      "sportId": 16,
+      "tournamentId": 42725,
+      "tournament": "PGL Wallachia",
+      "category": "PGL Dota2",
+      "team1": "Aurora",
+      "team2": "Pipsqueak+4",
+      "startTime": "2026-09-19T13:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1604272574794968",
+      "sportId": 16,
+      "tournamentId": 42725,
+      "tournament": "PGL Wallachia",
+      "category": "PGL Dota2",
+      "team1": "Gamerlegion",
+      "team2": "Team Cobra",
+      "startTime": "2026-09-19T13:00:00.000Z",
       "statusId": null,
       "statusName": null,
       "hasOdds": true
@@ -69,6 +108,32 @@
       "startTime": "2026-09-19T15:00:00.000Z",
       "statusId": 0,
       "statusName": "Pre-Game",
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1604272574794970",
+      "sportId": 16,
+      "tournamentId": 42725,
+      "tournament": "PGL Wallachia",
+      "category": "PGL Dota2",
+      "team1": "Team Yandex",
+      "team2": "Mouz",
+      "startTime": "2026-09-19T16:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1604272574794972",
+      "sportId": 16,
+      "tournamentId": 42725,
+      "tournament": "PGL Wallachia",
+      "category": "PGL Dota2",
+      "team1": "LGD Gaming",
+      "team2": "Yakult Brothers",
+      "startTime": "2026-09-19T16:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
       "hasOdds": true
     }
   ]
