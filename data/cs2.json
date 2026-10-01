@@ -2,10 +2,23 @@
   "ok": true,
   "game": "cs2",
   "sportId": 17,
-  "from": "2026-10-01T00:15:28.338Z",
-  "to": "2026-10-08T02:15:28.338Z",
-  "count": 27,
+  "from": "2026-10-01T07:08:18.960Z",
+  "to": "2026-10-08T09:08:18.960Z",
+  "count": 34,
   "matches": [
+    {
+      "fixtureId": "id1704460975092104",
+      "sportId": 17,
+      "tournamentId": 44609,
+      "tournament": "United21",
+      "category": "United21",
+      "team1": "The Unit",
+      "team2": "Ctrl",
+      "startTime": "2026-10-01T08:00:00.000Z",
+      "statusId": 1,
+      "statusName": "Live",
+      "hasOdds": true
+    },
     {
       "fixtureId": "id1705112275150042",
       "sportId": 17,
@@ -15,8 +28,8 @@
       "team1": "Masonic",
       "team2": "Lavked",
       "startTime": "2026-10-01T08:00:00.000Z",
-      "statusId": 0,
-      "statusName": "Pre-Game",
+      "statusId": 1,
+      "statusName": "Live",
       "hasOdds": true
     },
     {
@@ -85,6 +98,19 @@
       "hasOdds": true
     },
     {
+      "fixtureId": "id1705349675181488",
+      "sportId": 17,
+      "tournamentId": 53496,
+      "tournament": "FOX Legacy Cup",
+      "category": "KKM",
+      "team1": "Aimclub",
+      "team2": "Next Up",
+      "startTime": "2026-10-01T10:30:00.000Z",
+      "statusId": 0,
+      "statusName": "Pre-Game",
+      "hasOdds": true
+    },
+    {
       "fixtureId": "id1705112275150044",
       "sportId": 17,
       "tournamentId": 51122,
@@ -95,6 +121,32 @@
       "startTime": "2026-10-01T11:00:00.000Z",
       "statusId": 0,
       "statusName": "Pre-Game",
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1705121075177040",
+      "sportId": 17,
+      "tournamentId": 51210,
+      "tournament": "CCT Europe Challengers",
+      "category": "CCT",
+      "team1": "Eternal Premium",
+      "team2": "Maybe",
+      "startTime": "2026-10-01T11:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1705121075177042",
+      "sportId": 17,
+      "tournamentId": 51210,
+      "tournament": "CCT Europe Challengers",
+      "category": "CCT",
+      "team1": "Phantom Academy",
+      "team2": "Morrow",
+      "startTime": "2026-10-01T11:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
       "hasOdds": true
     },
     {
@@ -124,6 +176,19 @@
       "hasOdds": true
     },
     {
+      "fixtureId": "id1705349675167748",
+      "sportId": 17,
+      "tournamentId": 53496,
+      "tournament": "FOX Legacy Cup",
+      "category": "KKM",
+      "team1": "Natus Vincere Junior",
+      "team2": "Aimclub",
+      "startTime": "2026-10-01T13:00:00.000Z",
+      "statusId": 0,
+      "statusName": "Pre-Game",
+      "hasOdds": true
+    },
+    {
       "fixtureId": "id1705079674757782",
       "sportId": 17,
       "tournamentId": 50796,
@@ -147,6 +212,19 @@
       "startTime": "2026-10-01T15:00:00.000Z",
       "statusId": 0,
       "statusName": "Pre-Game",
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1705103875182486",
+      "sportId": 17,
+      "tournamentId": 51038,
+      "tournament": "CIS LAN Championship",
+      "category": "MPKBK",
+      "team1": "Team Nemesis",
+      "team2": "Hotu",
+      "startTime": "2026-10-01T16:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
       "hasOdds": true
     },
     {
@@ -212,6 +290,19 @@
       "startTime": "2026-10-01T18:45:00.000Z",
       "statusId": 0,
       "statusName": "Pre-Game",
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1705103875182474",
+      "sportId": 17,
+      "tournamentId": 51038,
+      "tournament": "CIS LAN Championship",
+      "category": "MPKBK",
+      "team1": "Cybershoke eSports",
+      "team2": "Nuclear Tigeres",
+      "startTime": "2026-10-01T19:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
       "hasOdds": true
     },
     {

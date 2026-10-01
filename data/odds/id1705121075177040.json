@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "fixtureId": "id1705121075177040",
+  "data": {
+    "fixtureId": "id1705121075177040",
+    "participant1Id": 1335558,
+    "participant2Id": 828092,
+    "sportId": 17,
+    "tournamentId": 51210,
+    "seasonId": null,
+    "statusId": null,
+    "hasOdds": true,
+    "startTime": "2026-10-01T11:00:00.000Z",
+    "trueStartTime": null,
+    "trueEndTime": null,
+    "updatedAt": "2026-10-01T08:41:07.813Z",
+    "externalProviders": {
+      "betradarId": 75177040,
+      "mollybetId": null,
+      "opticoddsId": null,
+      "lsportsId": null,
+      "txoddsId": null,
+      "sofascoreId": null,
+      "betgeniusId": null,
+      "flashscoreId": null,
+      "pinnacleId": null,
+      "oddinId": null
+    },
+    "participant1Name": "Eternal Premium",
+    "participant1ShortName": "Eternal Premium",
+    "participant1Abbr": "ETE",
+    "participant2Name": "Maybe",
+    "participant2ShortName": "Maybe",
+    "participant2Abbr": "MAY",
+    "sportName": "ESport Counter-Strike",
+    "tournamentSlug": "cct-europe-challengers",
+    "categorySlug": "cct",
+    "categoryName": "CCT",
+    "tournamentName": "CCT Europe Challengers"
+  }
+}
