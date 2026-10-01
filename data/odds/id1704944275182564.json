@@ -1,0 +1,5321 @@
+{
+  "ok": true,
+  "fixtureId": "id1704944275182564",
+  "data": {
+    "fixtureId": "id1704944275182564",
+    "participant1Id": 371600,
+    "participant2Id": 664393,
+    "sportId": 17,
+    "tournamentId": 49442,
+    "seasonId": null,
+    "statusId": null,
+    "hasOdds": true,
+    "startTime": "2026-10-02T16:00:00.000Z",
+    "trueStartTime": null,
+    "trueEndTime": null,
+    "updatedAt": "2026-10-01T14:10:56.566Z",
+    "externalProviders": {
+      "betradarId": 75182564,
+      "mollybetId": null,
+      "opticoddsId": "20261002E6D9EBD3",
+      "lsportsId": null,
+      "txoddsId": null,
+      "sofascoreId": null,
+      "betgeniusId": null,
+      "flashscoreId": null,
+      "pinnacleId": 1637546080,
+      "oddinId": 3263742
+    },
+    "participant1Name": "Havu",
+    "participant1ShortName": "Havu",
+    "participant1Abbr": "HAV",
+    "participant2Name": "Sangal eSports",
+    "participant2ShortName": "Sangal eSports",
+    "participant2Abbr": "SAN",
+    "sportName": "ESport Counter-Strike",
+    "tournamentSlug": "journey",
+    "categorySlug": "black-molly-entertainment",
+    "categoryName": "Black Molly Entertainment",
+    "tournamentName": "Journey",
+    "bookmakerOdds": {
+      "20bet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "11769136",
+        "fixturePath": "https://vave.com/en/prematch/11769136",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "910",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:48:57.871Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.72,
+                    "priceAmerican": "272",
+                    "priceFractional": "68/25",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:48:57.871Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.21,
+                    "priceAmerican": "-476",
+                    "priceFractional": "21/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "500.casino": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "7bet.co.uk": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "7bet.lt": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "allbritishcasino": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "alphawin": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "apuestatotal": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.apuestatotal.com/17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:13:20.582Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:13:20.582Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:13:20.582Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:13:20.582Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "bcgame": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betano": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "93443364",
+        "fixturePath": "https://ro.betano.com/cote/e-e/93443364",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "2989040843",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242744",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.65,
+                    "priceAmerican": "265",
+                    "priceFractional": "53/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242745",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.25,
+                    "priceAmerican": "-400",
+                    "priceFractional": "1/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betano.bet.br": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "93443364",
+        "fixturePath": "https://www.betano.bet.br/quoten/e-e/93443364",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "2989040843",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242744",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:14:21.821Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.65,
+                    "priceAmerican": "265",
+                    "priceFractional": "53/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242745",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:14:21.821Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.25,
+                    "priceAmerican": "-400",
+                    "priceFractional": "1/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betano.bg": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "93443364",
+        "fixturePath": "https://ro.betano.com/cote/e-e/93443364",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "2989040843",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242744",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.65,
+                    "priceAmerican": "265",
+                    "priceFractional": "53/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242745",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.25,
+                    "priceAmerican": "-400",
+                    "priceFractional": "1/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betano.ca": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "93443364",
+        "fixturePath": "https://ro.betano.com/cote/e-e/93443364",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "2989040843",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242744",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.65,
+                    "priceAmerican": "265",
+                    "priceFractional": "53/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242745",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.25,
+                    "priceAmerican": "-400",
+                    "priceFractional": "1/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betano.cz": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "93443364",
+        "fixturePath": "https://www.betano.cz/quoten/e-e/93443364",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "2989040843",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242744",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:53.643Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.65,
+                    "priceAmerican": "265",
+                    "priceFractional": "53/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242745",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:53.643Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.25,
+                    "priceAmerican": "-400",
+                    "priceFractional": "1/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betano.de": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "93443364",
+        "fixturePath": "https://ro.betano.com/cote/e-e/93443364",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "2989040843",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242744",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.65,
+                    "priceAmerican": "265",
+                    "priceFractional": "53/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242745",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.25,
+                    "priceAmerican": "-400",
+                    "priceFractional": "1/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betano.dk": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "93443364",
+        "fixturePath": "https://ro.betano.com/cote/e-e/93443364",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "2989040843",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242744",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.65,
+                    "priceAmerican": "265",
+                    "priceFractional": "53/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242745",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.25,
+                    "priceAmerican": "-400",
+                    "priceFractional": "1/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betano.mx": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "93443364",
+        "fixturePath": "https://ro.betano.com/cote/e-e/93443364",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "2989040843",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242744",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.65,
+                    "priceAmerican": "265",
+                    "priceFractional": "53/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242745",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.25,
+                    "priceAmerican": "-400",
+                    "priceFractional": "1/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betano.pe": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "93443364",
+        "fixturePath": "https://ro.betano.com/cote/e-e/93443364",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "2989040843",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242744",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.65,
+                    "priceAmerican": "265",
+                    "priceFractional": "53/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242745",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.25,
+                    "priceAmerican": "-400",
+                    "priceFractional": "1/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betano.ro": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "93443364",
+        "fixturePath": "https://ro.betano.com/cote/e-e/93443364",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "2989040843",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242744",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.65,
+                    "priceAmerican": "265",
+                    "priceFractional": "53/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "10532242745",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:57:38.574Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.25,
+                    "priceAmerican": "-400",
+                    "priceFractional": "1/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betfirst.be": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "f-nSwoPd8WQEmqmAX3GjOjsw",
+        "fixturePath": "https://www.betsson.com/en/sportsbook/ice-hockey/e/e?tab=liveAndUpcoming&eti=0&mtg=all&fs=true&eventId=f-nSwoPd8WQEmqmAX3GjOjsw",
+        "suspended": true,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": false,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "s-m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W-home",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T16:10:53.573Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.8,
+                    "priceAmerican": "280",
+                    "priceFractional": "14/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": false,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "s-m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W-away",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T16:10:53.573Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.22,
+                    "priceAmerican": "-455",
+                    "priceFractional": "11/50",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betfury": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betify": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:23:45.380Z",
+                    "changedAt": "2026-10-01T13:23:46.110Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.8,
+                    "priceAmerican": "280",
+                    "priceFractional": "14/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:23:45.380Z",
+                    "changedAt": "2026-10-01T13:23:46.110Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.22,
+                    "priceAmerican": "-455",
+                    "priceFractional": "11/50",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betinia.dk": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betonred": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betplay.io": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:23:45.380Z",
+                    "changedAt": "2026-10-01T13:23:46.110Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.8,
+                    "priceAmerican": "280",
+                    "priceFractional": "14/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:23:45.380Z",
+                    "changedAt": "2026-10-01T13:23:46.110Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.22,
+                    "priceAmerican": "-455",
+                    "priceFractional": "11/50",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betsafe": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "f-nSwoPd8WQEmqmAX3GjOjsw",
+        "fixturePath": "https://www.betsson.com/en/sportsbook/ice-hockey/e/e?tab=liveAndUpcoming&eti=0&mtg=all&fs=true&eventId=f-nSwoPd8WQEmqmAX3GjOjsw",
+        "suspended": true,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": false,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "s-m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W-home",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T16:10:53.573Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.8,
+                    "priceAmerican": "280",
+                    "priceFractional": "14/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": false,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "s-m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W-away",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T16:10:53.573Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.22,
+                    "priceAmerican": "-455",
+                    "priceFractional": "11/50",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betsson": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "f-nSwoPd8WQEmqmAX3GjOjsw",
+        "fixturePath": "https://www.betsson.com/en/sportsbook/ice-hockey/e/e?tab=liveAndUpcoming&eti=0&mtg=all&fs=true&eventId=f-nSwoPd8WQEmqmAX3GjOjsw",
+        "suspended": true,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": false,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "s-m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W-home",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T16:10:53.573Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.8,
+                    "priceAmerican": "280",
+                    "priceFractional": "14/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": false,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "s-m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W-away",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T16:10:53.573Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.22,
+                    "priceAmerican": "-455",
+                    "priceFractional": "11/50",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betway": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17293589",
+        "fixturePath": "https://betway.com/g/en/sports/evt/17293589",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "643472691",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "2653070284",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:20:41.183Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.8,
+                    "priceAmerican": "280",
+                    "priceFractional": "14/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "2653070285",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:20:41.183Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.222,
+                    "priceAmerican": "-450",
+                    "priceFractional": "2/9",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "betwhale.ag": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "blaze": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "blaze.bet.br": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "bluechip": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "campobet.dk": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "casapariurilor.ro": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "ufo:mtch:1wi-13w",
+        "fixturePath": "https://www.casapariurilor.ro/pariuri-online/ufo:mtch:1wi-13w",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "ufo:mkt:1wi-13w-000",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "ufo:opt:1wi-13w-000-00",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:46:19.779Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "ufo:opt:1wi-13w-000-01",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:46:19.779Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.24,
+                    "priceAmerican": "-417",
+                    "priceFractional": "6/25",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "coolbet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "20261002E6D9EBD3",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://www.coolbet.com/ca/sports/match/6255991",
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": "2026-10-01T13:45:32.825Z",
+                    "changedAt": "2026-10-01T14:10:09.828Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.8,
+                    "priceAmerican": "280",
+                    "priceFractional": "14/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://www.coolbet.com/ca/sports/match/6255991",
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": "2026-10-01T13:45:32.825Z",
+                    "changedAt": "2026-10-01T14:10:09.828Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.22,
+                    "priceAmerican": "-455",
+                    "priceFractional": "11/50",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "coolzino": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "cryptoleo": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "dafabet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "44310603",
+        "fixturePath": "https://www.dafabet.com/en/dfgoal/sports/e/e/e/event-44310603",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "4636782208",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "31694464613",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:47:59.691Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.8,
+                    "priceAmerican": "280",
+                    "priceFractional": "14/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "31694464614",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:47:59.691Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.22,
+                    "priceAmerican": "-455",
+                    "priceFractional": "11/50",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "duel": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T16:19:17.463Z",
+                    "changedAt": "2026-10-01T16:19:19.703Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 4.2,
+                    "priceAmerican": "320",
+                    "priceFractional": "16/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T16:19:17.463Z",
+                    "changedAt": "2026-10-01T16:19:19.703Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.25,
+                    "priceAmerican": "-400",
+                    "priceFractional": "1/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "efortuna.pl": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "ufo:mtch:1wi-13w",
+        "fixturePath": "https://www.efortuna.pl/zaklady-bukmacherskie/ufo:mtch:1wi-13w?tab=offer",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "ufo:mkt:1wi-13w-000",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "ufo:opt:1wi-13w-000-00",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:42:40.651Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "ufo:opt:1wi-13w-000-01",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:42:40.651Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.24,
+                    "priceAmerican": "-417",
+                    "priceFractional": "6/25",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "efortuna.ro": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "ufo:mtch:1wi-13w",
+        "fixturePath": "https://www.efortuna.ro/pariuri-sportive/ufo:mtch:1wi-13w?tab=offer",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "ufo:mkt:1wi-13w-000",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "ufo:opt:1wi-13w-000-00",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:47:06.168Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "ufo:opt:1wi-13w-000-01",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:47:06.168Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.24,
+                    "priceAmerican": "-417",
+                    "priceFractional": "6/25",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "esportivabet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "estrelabet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.estrelabet.com/17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:40:47.182Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:40:47.182Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:40:47.182Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:40:47.182Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "estrelabet.bet.br": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.estrelabet.com/17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:40:47.182Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:40:47.182Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:40:47.182Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:40:47.182Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "fezbet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "fortunejack": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "goldenpalacesports.be": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "greatwin": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "inkabet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "f-nSwoPd8WQEmqmAX3GjOjsw",
+        "fixturePath": "https://www.betsson.com/en/sportsbook/ice-hockey/e/e?tab=liveAndUpcoming&eti=0&mtg=all&fs=true&eventId=f-nSwoPd8WQEmqmAX3GjOjsw",
+        "suspended": true,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": false,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "s-m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W-home",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T16:10:53.573Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.8,
+                    "priceAmerican": "280",
+                    "priceFractional": "14/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": false,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "s-m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W-away",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T16:10:53.573Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.22,
+                    "priceAmerican": "-455",
+                    "priceFractional": "11/50",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "ivibet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "11769136",
+        "fixturePath": "https://vave.com/en/prematch/11769136",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "910",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:48:57.871Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.72,
+                    "priceAmerican": "272",
+                    "priceFractional": "68/25",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:48:57.871Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.21,
+                    "priceAmerican": "-476",
+                    "priceFractional": "21/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "librabet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "lottoland": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "marathonbet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "31912526",
+        "fixturePath": "https://new.marathonbet.com/en/sport/event/31912526",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "3600632513",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "8164106368",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T15:08:34.810Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.34,
+                    "priceAmerican": "234",
+                    "priceFractional": "117/50",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "8164106366",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T15:08:34.810Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.28,
+                    "priceAmerican": "-357",
+                    "priceFractional": "7/25",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "megadice": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T15:07:24.372Z",
+                    "changedAt": "2026-10-01T15:07:26.819Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.9,
+                    "priceAmerican": "290",
+                    "priceFractional": "29/10",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T15:07:24.372Z",
+                    "changedAt": "2026-10-01T15:07:26.819Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "merkurxtip.cz": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "mrbit.ro": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "napoleonsports.be": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "15247781",
+        "fixturePath": "https://www.napoleonsports.be/offer-event/e-15247781",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "795ee7d4-13fc-5602-a6ff-45b473208b4b",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "f65f41ab-2d21-5ac4-939f-d73f7545f894",
+                    "bookmakerChangedAt": "2026-10-01T14:48:30.834Z",
+                    "changedAt": "2026-10-01T15:04:53.059Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3,
+                    "priceAmerican": "200",
+                    "priceFractional": "2/1",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "404f00b4-8471-5231-8359-cc04ad5b0142",
+                    "bookmakerChangedAt": "2026-10-01T14:48:30.834Z",
+                    "changedAt": "2026-10-01T15:04:53.059Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.32,
+                    "priceAmerican": "-312",
+                    "priceFractional": "8/25",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "netbet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "1-31076743",
+        "fixturePath": "https://sport.netbet.com/football/e/e-vs-e-1-31076743",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "2461729020",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T15:01:19.353Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.4,
+                    "priceAmerican": "240",
+                    "priceFractional": "12/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T15:01:19.353Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.25,
+                    "priceAmerican": "-400",
+                    "priceFractional": "1/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "netbet.co.uk": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "1-31076743",
+        "fixturePath": "https://sport.netbet.co.uk/football/e/e-vs-e-1-31076743",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "2461729020",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:51:19.939Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.4,
+                    "priceAmerican": "240",
+                    "priceFractional": "12/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:51:19.939Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.25,
+                    "priceAmerican": "-400",
+                    "priceFractional": "1/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "nextbet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "44310603",
+        "fixturePath": "https://www.dafabet.com/en/dfgoal/sports/e/e/e/event-44310603",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "4636782208",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "31694464613",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:47:59.691Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.8,
+                    "priceAmerican": "280",
+                    "priceFractional": "14/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "31694464614",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:47:59.691Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.22,
+                    "priceAmerican": "-455",
+                    "priceFractional": "11/50",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "ninecasino": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "nordicbet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "f-nSwoPd8WQEmqmAX3GjOjsw",
+        "fixturePath": "https://www.betsson.com/en/sportsbook/ice-hockey/e/e?tab=liveAndUpcoming&eti=0&mtg=all&fs=true&eventId=f-nSwoPd8WQEmqmAX3GjOjsw",
+        "suspended": true,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": false,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "s-m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W-home",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T16:10:53.573Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.8,
+                    "priceAmerican": "280",
+                    "priceFractional": "14/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": false,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "s-m-f-nSwoPd8WQEmqmAX3GjOjsw-MW2W-away",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T16:10:53.573Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.22,
+                    "priceAmerican": "-455",
+                    "priceFractional": "11/50",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "pixbet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "polymarket": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "1110386",
+        "fixturePath": "https://polymarket.com/event/cs2-havu-sng2-2026-10-02",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "5162881",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "109339605833046346548527993313426923488817543426653754359850752569980721814397",
+                    "bookmakerChangedAt": "2026-10-01T16:20:33.310Z",
+                    "changedAt": "2026-10-01T16:20:33.831Z",
+                    "limit": 8.4,
+                    "playerName": null,
+                    "price": 2.381,
+                    "priceAmerican": "138",
+                    "priceFractional": "29/21",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.42,
+                          "limit": 8.4,
+                          "price": 2.381,
+                          "size": 20
+                        },
+                        {
+                          "cents": 0.43,
+                          "limit": 2.15,
+                          "price": 2.326,
+                          "size": 5
+                        },
+                        {
+                          "cents": 0.47,
+                          "limit": 948.46,
+                          "price": 2.128,
+                          "size": 2018
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "54738097866489003624974719056982739356517133400200575316692201346050628383161",
+                      "lay": [
+                        {
+                          "cents": 0.79,
+                          "limit": 15.8,
+                          "price": 1.266,
+                          "size": 20
+                        },
+                        {
+                          "cents": 0.8,
+                          "limit": 4,
+                          "price": 1.25,
+                          "size": 5
+                        },
+                        {
+                          "cents": 0.81,
+                          "limit": 3330.83,
+                          "price": 1.235,
+                          "size": 4112.13
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "54738097866489003624974719056982739356517133400200575316692201346050628383161",
+                    "bookmakerChangedAt": "2026-10-01T16:20:33.310Z",
+                    "changedAt": "2026-10-01T16:20:33.831Z",
+                    "limit": 15.8,
+                    "playerName": null,
+                    "price": 1.266,
+                    "priceAmerican": "-376",
+                    "priceFractional": "25/94",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.79,
+                          "limit": 15.8,
+                          "price": 1.266,
+                          "size": 20
+                        },
+                        {
+                          "cents": 0.8,
+                          "limit": 4,
+                          "price": 1.25,
+                          "size": 5
+                        },
+                        {
+                          "cents": 0.81,
+                          "limit": 3330.83,
+                          "price": 1.235,
+                          "size": 4112.13
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "109339605833046346548527993313426923488817543426653754359850752569980721814397",
+                      "lay": [
+                        {
+                          "cents": 0.42,
+                          "limit": 8.4,
+                          "price": 2.381,
+                          "size": 20
+                        },
+                        {
+                          "cents": 0.43,
+                          "limit": 2.15,
+                          "price": 2.326,
+                          "size": 5
+                        },
+                        {
+                          "cents": 0.47,
+                          "limit": 948.46,
+                          "price": 2.128,
+                          "size": 2018
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "polymarket.us": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "134849",
+        "fixturePath": "https://polymarket.us/sports/cs2/cs2-havu-sang-2026-10-02",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "1145053",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "2289588",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T15:49:29.931Z",
+                    "limit": 0,
+                    "playerName": null,
+                    "price": 3.333,
+                    "priceAmerican": "233",
+                    "priceFractional": "7/3",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.3,
+                          "limit": 0,
+                          "price": 3.3333,
+                          "size": 0
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "2289589",
+                      "lay": [
+                        {
+                          "cents": 0.76,
+                          "limit": 0,
+                          "price": 1.3158,
+                          "size": 0
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "2289589",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T15:49:29.931Z",
+                    "limit": 0,
+                    "playerName": null,
+                    "price": 1.316,
+                    "priceAmerican": "-316",
+                    "priceFractional": "6/19",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.76,
+                          "limit": 0,
+                          "price": 1.3158,
+                          "size": 0
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "2289588",
+                      "lay": [
+                        {
+                          "cents": 0.3,
+                          "limit": 0,
+                          "price": 3.3333,
+                          "size": 0
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "powbet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "quickwin": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "rabona": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "rainbet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "rajbets": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "razed": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "rollbit": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.95,
+                    "priceAmerican": "295",
+                    "priceFractional": "59/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:21:21.530Z",
+                    "changedAt": "2026-10-01T13:22:13.562Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.23,
+                    "priceAmerican": "-435",
+                    "priceFractional": "23/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "roobet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "2717107748721537050",
+        "fixturePath": "",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "186",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": "2026-10-01T13:23:45.380Z",
+                    "changedAt": "2026-10-01T13:23:46.110Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.8,
+                    "priceAmerican": "280",
+                    "priceFractional": "14/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": "2026-10-01T13:23:45.380Z",
+                    "changedAt": "2026-10-01T13:23:46.110Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.22,
+                    "priceAmerican": "-455",
+                    "priceFractional": "11/50",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "sportaza": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "sportuna": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "stake": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "859863-havu-gaming-sangal-esports",
+        "fixturePath": "https://stake.com/sports/e/e/e-e/859863-havu-gaming-sangal-esports",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "83908eba-2481-46e6-b1e4-ec3481e3b8ae",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "0df0534e-2378-46b8-8f64-a50b46dc8dde",
+                    "bookmakerChangedAt": "2026-10-01T11:37:02.463Z",
+                    "changedAt": "2026-10-01T12:55:21.932Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.8,
+                    "priceAmerican": "280",
+                    "priceFractional": "14/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "97408cd2-080f-46f4-9cde-0399f73f1f8b",
+                    "bookmakerChangedAt": "2026-10-01T11:37:02.463Z",
+                    "changedAt": "2026-10-01T12:55:21.932Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.22,
+                    "priceAmerican": "-455",
+                    "priceFractional": "11/50",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "starcasino.be": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "superbet.bet.br": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "15247781",
+        "fixturePath": "https://superbet.bet.br/offer-event/e-15247781",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "425b1bba-2c3f-544a-8892-6898ab907b24",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5481c888-5984-5eea-ae88-0ed12224ba2d",
+                    "bookmakerChangedAt": "2026-10-01T14:48:30.829Z",
+                    "changedAt": "2026-10-01T14:53:37.676Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 2.85,
+                    "priceAmerican": "185",
+                    "priceFractional": "37/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "84023792-5e1c-5af3-ae67-d47fdbb2d464",
+                    "bookmakerChangedAt": "2026-10-01T14:48:30.829Z",
+                    "changedAt": "2026-10-01T14:53:37.676Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.3,
+                    "priceAmerican": "-333",
+                    "priceFractional": "3/10",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "superbet.pl": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "15247781",
+        "fixturePath": "https://superbet.pl/offer-event/e-15247781",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "879269df-2477-5d60-b550-219c38183e81",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "43755dca-bb90-5a78-933d-4560b51031ec",
+                    "bookmakerChangedAt": "2026-10-01T14:48:30.838Z",
+                    "changedAt": "2026-10-01T15:43:42.113Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 2.95,
+                    "priceAmerican": "195",
+                    "priceFractional": "39/20",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "c7956357-0669-58bd-bab2-6bc1c5c1487a",
+                    "bookmakerChangedAt": "2026-10-01T14:48:30.838Z",
+                    "changedAt": "2026-10-01T15:43:42.113Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.32,
+                    "priceAmerican": "-312",
+                    "priceFractional": "8/25",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "superbet.rs": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "15247781",
+        "fixturePath": "https://superbet.rs/offer-event/e-15247781",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "726e013a-c0b9-5425-9c1e-1cbdc1e2014e",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "ce259daf-1c7b-548c-b0d0-cc616483e79b",
+                    "bookmakerChangedAt": "2026-10-01T14:48:30.831Z",
+                    "changedAt": "2026-10-01T15:00:37.497Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3,
+                    "priceAmerican": "200",
+                    "priceFractional": "2/1",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "fa78538d-c9c9-5ca2-9d5a-65b49f53b97b",
+                    "bookmakerChangedAt": "2026-10-01T14:48:30.831Z",
+                    "changedAt": "2026-10-01T15:00:37.497Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.32,
+                    "priceAmerican": "-312",
+                    "priceFractional": "8/25",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "tonybet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "11769136",
+        "fixturePath": "https://vave.com/en/prematch/11769136",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "910",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:48:57.871Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.72,
+                    "priceAmerican": "272",
+                    "priceFractional": "68/25",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:48:57.871Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.21,
+                    "priceAmerican": "-476",
+                    "priceFractional": "21/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "vave": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "11769136",
+        "fixturePath": "https://vave.com/en/prematch/11769136",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "910",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:48:57.871Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.72,
+                    "priceAmerican": "272",
+                    "priceFractional": "68/25",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "5",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T13:48:57.871Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.21,
+                    "priceAmerican": "-476",
+                    "priceFractional": "21/100",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "wazamba": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "winpot.mx": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "17889209",
+        "fixturePath": "https://www.lottoland.com/global/sportsbook?eventId=17889209",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "30001",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577359976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "330",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360083",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.6,
+                    "priceAmerican": "260",
+                    "priceFractional": "13/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4577360084",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-10-01T14:20:14.488Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.235,
+                    "priceAmerican": "-426",
+                    "priceFractional": "4/17",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
