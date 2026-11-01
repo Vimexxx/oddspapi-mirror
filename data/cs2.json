@@ -2,23 +2,10 @@
   "ok": true,
   "game": "cs2",
   "sportId": 17,
-  "from": "2026-10-31T23:38:33.793Z",
-  "to": "2026-11-08T01:38:33.793Z",
-  "count": 16,
+  "from": "2026-11-01T06:07:51.236Z",
+  "to": "2026-11-08T08:07:51.236Z",
+  "count": 20,
   "matches": [
-    {
-      "fixtureId": "id1705327476254426",
-      "sportId": 17,
-      "tournamentId": 53274,
-      "tournament": "DFRAG Invitational",
-      "category": "Dfrag",
-      "team1": "Alter Ego",
-      "team2": "Flyquest",
-      "startTime": "2026-11-01T03:00:00.000Z",
-      "statusId": 0,
-      "statusName": "Pre-Game",
-      "hasOdds": true
-    },
     {
       "fixtureId": "id1704460976269490",
       "sportId": 17,
@@ -28,8 +15,8 @@
       "team1": "Gothboiclique",
       "team2": "Unity eSports",
       "startTime": "2026-11-01T09:00:00.000Z",
-      "statusId": null,
-      "statusName": null,
+      "statusId": 0,
+      "statusName": "Pre-Game",
       "hasOdds": true
     },
     {
@@ -46,6 +33,19 @@
       "hasOdds": true
     },
     {
+      "fixtureId": "id1705306676270652",
+      "sportId": 17,
+      "tournamentId": 53066,
+      "tournament": "Circuito Retake",
+      "category": "Hyped",
+      "team1": "Jijiehao",
+      "team2": "Metizport",
+      "startTime": "2026-11-01T10:00:00.000Z",
+      "statusId": 0,
+      "statusName": "Pre-Game",
+      "hasOdds": true
+    },
+    {
       "fixtureId": "id1705112276269364",
       "sportId": 17,
       "tournamentId": 51122,
@@ -54,8 +54,8 @@
       "team1": "Apogee Esports",
       "team2": "Phantom eSports",
       "startTime": "2026-11-01T11:00:00.000Z",
-      "statusId": null,
-      "statusName": null,
+      "statusId": 0,
+      "statusName": "Pre-Game",
       "hasOdds": true
     },
     {
@@ -72,6 +72,19 @@
       "hasOdds": true
     },
     {
+      "fixtureId": "id1705285476260272",
+      "sportId": 17,
+      "tournamentId": 52854,
+      "tournament": "Moscow Cyber Games",
+      "category": "GLuck Esports",
+      "team1": "1Win Team",
+      "team2": "Hotu",
+      "startTime": "2026-11-01T13:00:00.000Z",
+      "statusId": null,
+      "statusName": null,
+      "hasOdds": true
+    },
+    {
       "fixtureId": "id1705306676269268",
       "sportId": 17,
       "tournamentId": 53066,
@@ -80,8 +93,8 @@
       "team1": "Iberian Soul",
       "team2": "Wbt Academy",
       "startTime": "2026-11-01T13:00:00.000Z",
-      "statusId": null,
-      "statusName": null,
+      "statusId": 0,
+      "statusName": "Pre-Game",
       "hasOdds": true
     },
     {
@@ -93,8 +106,8 @@
       "team1": "Bestia",
       "team2": "100 Thieves",
       "startTime": "2026-11-01T14:00:00.000Z",
-      "statusId": null,
-      "statusName": null,
+      "statusId": 0,
+      "statusName": "Pre-Game",
       "hasOdds": true
     },
     {
@@ -106,8 +119,47 @@
       "team1": "Fokus",
       "team2": "Acend",
       "startTime": "2026-11-01T14:00:00.000Z",
+      "statusId": 0,
+      "statusName": "Pre-Game",
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1705403076273472",
+      "sportId": 17,
+      "tournamentId": 54030,
+      "tournament": "Gamers Club Masters",
+      "category": "Gamers Club",
+      "team1": "Naocopulas",
+      "team2": "Low Cortisol Gaming",
+      "startTime": "2026-11-01T15:00:00.000Z",
+      "statusId": 0,
+      "statusName": "Pre-Game",
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1705105476269586",
+      "sportId": 17,
+      "tournamentId": 51054,
+      "tournament": "CCT Contenders Europe",
+      "category": "CCT",
+      "team1": "Prodigy",
+      "team2": "Ducks",
+      "startTime": "2026-11-01T16:30:00.000Z",
       "statusId": null,
       "statusName": null,
+      "hasOdds": true
+    },
+    {
+      "fixtureId": "id1705403076273474",
+      "sportId": 17,
+      "tournamentId": 54030,
+      "tournament": "Gamers Club Masters",
+      "category": "Gamers Club",
+      "team1": "Imperial eSports",
+      "team2": "Dendele CS",
+      "startTime": "2026-11-01T20:00:00.000Z",
+      "statusId": 0,
+      "statusName": "Pre-Game",
       "hasOdds": true
     },
     {
@@ -119,8 +171,8 @@
       "team1": "The Mongolz",
       "team2": "Legacy",
       "startTime": "2026-11-02T02:00:00.000Z",
-      "statusId": null,
-      "statusName": null,
+      "statusId": 0,
+      "statusName": "Pre-Game",
       "hasOdds": true
     },
     {
@@ -132,8 +184,8 @@
       "team1": "Heroic",
       "team2": "B8",
       "startTime": "2026-11-02T02:00:00.000Z",
-      "statusId": null,
-      "statusName": null,
+      "statusId": 0,
+      "statusName": "Pre-Game",
       "hasOdds": true
     },
     {
@@ -145,8 +197,8 @@
       "team1": "Aurora Gaming",
       "team2": "Team Liquid",
       "startTime": "2026-11-02T04:30:00.000Z",
-      "statusId": null,
-      "statusName": null,
+      "statusId": 0,
+      "statusName": "Pre-Game",
       "hasOdds": true
     },
     {
@@ -158,8 +210,8 @@
       "team1": "G2 Esports",
       "team2": "Parivision",
       "startTime": "2026-11-02T04:30:00.000Z",
-      "statusId": null,
-      "statusName": null,
+      "statusId": 0,
+      "statusName": "Pre-Game",
       "hasOdds": true
     },
     {
@@ -171,8 +223,8 @@
       "team1": "Faze Clan",
       "team2": "Furia",
       "startTime": "2026-11-02T07:00:00.000Z",
-      "statusId": null,
-      "statusName": null,
+      "statusId": 0,
+      "statusName": "Pre-Game",
       "hasOdds": true
     },
     {
@@ -184,8 +236,8 @@
       "team1": "9Z Team",
       "team2": "Betboom Team",
       "startTime": "2026-11-02T07:00:00.000Z",
-      "statusId": null,
-      "statusName": null,
+      "statusId": 0,
+      "statusName": "Pre-Game",
       "hasOdds": true
     },
     {
