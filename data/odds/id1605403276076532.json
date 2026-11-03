@@ -1,0 +1,978 @@
+{
+  "ok": true,
+  "fixtureId": "id1605403276076532",
+  "data": {
+    "fixtureId": "id1605403276076532",
+    "participant1Id": 1390780,
+    "participant2Id": 1385126,
+    "sportId": 16,
+    "tournamentId": 54032,
+    "seasonId": null,
+    "statusId": 0,
+    "hasOdds": true,
+    "startTime": "2026-11-04T12:00:00.000Z",
+    "trueStartTime": null,
+    "trueEndTime": null,
+    "updatedAt": "2026-11-03T15:24:05.074Z",
+    "externalProviders": {
+      "betradarId": 76076532,
+      "mollybetId": "2026-11-04,10104579,10105464",
+      "opticoddsId": "20261102B6FD741B",
+      "lsportsId": null,
+      "txoddsId": null,
+      "sofascoreId": 17416243,
+      "betgeniusId": null,
+      "flashscoreId": null,
+      "pinnacleId": null,
+      "oddinId": null
+    },
+    "statusName": "Pre-Game",
+    "participant1Name": "Xipto eSports",
+    "participant1ShortName": "Xipto eSports",
+    "participant1Abbr": "XIP",
+    "participant2Name": "Team Synapse",
+    "participant2ShortName": "Team Synapse",
+    "participant2Abbr": "TEA",
+    "sportName": "ESport Dota",
+    "tournamentSlug": "esports-pro-circuit",
+    "categorySlug": "epc",
+    "categoryName": "EPC",
+    "tournamentName": "Esports Pro Circuit",
+    "bookmakerOdds": {
+      "hardrockbet": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "1158957581713146257",
+        "fixturePath": "https://app.hardrock.bet/home/competition/e/1158957581713146257",
+        "suspended": false,
+        "markets": {
+          "161": {
+            "bookmakerMarketId": "4774776733058597284",
+            "marketActive": false,
+            "outcomes": {
+              "161": {
+                "players": {
+                  "0": {
+                    "active": false,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "3185006064596812196",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-03T10:51:55.791Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.833,
+                    "priceAmerican": "-120",
+                    "priceFractional": "5/6",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "162": {
+                "players": {
+                  "0": {
+                    "active": false,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "4389718964918419876",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-03T10:51:55.791Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.833,
+                    "priceAmerican": "-120",
+                    "priceFractional": "5/6",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "kalshi": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "KXDOTA2GAME-26NOV020400SYNXE",
+        "fixturePath": "https://kalshi.com/markets/kxdota2game/e#kxdota2game-26nov020400synxe",
+        "suspended": false,
+        "markets": {
+          "161": {
+            "bookmakerMarketId": "KXDOTA2GAME-26NOV020400SYNXE",
+            "marketActive": true,
+            "outcomes": {
+              "161": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxdota2game-26nov020400synxe?marketTicker=kxdota2game-26nov020400synxe-xe",
+                    "bookmakerOutcomeId": "KXDOTA2GAME-26NOV020400SYNXE-XE:yes",
+                    "bookmakerChangedAt": "2026-11-03T16:36:02.674Z",
+                    "changedAt": "2026-11-03T16:36:02.889Z",
+                    "limit": 86.64,
+                    "playerName": null,
+                    "price": 1.754,
+                    "priceAmerican": "-133",
+                    "priceFractional": "46/61",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.57,
+                          "limit": 86.64,
+                          "price": 1.754,
+                          "size": 152
+                        },
+                        {
+                          "cents": 0.6,
+                          "limit": 147.6,
+                          "price": 1.667,
+                          "size": 246
+                        },
+                        {
+                          "cents": 0.61,
+                          "limit": 89.06,
+                          "price": 1.639,
+                          "size": 146
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXDOTA2GAME-26NOV020400SYNXE-XE:no",
+                      "lay": [
+                        {
+                          "cents": 0.58,
+                          "limit": 18.48,
+                          "price": 1.724,
+                          "size": 31.86
+                        },
+                        {
+                          "cents": 0.62,
+                          "limit": 14.88,
+                          "price": 1.613,
+                          "size": 24
+                        },
+                        {
+                          "cents": 0.67,
+                          "limit": 9.38,
+                          "price": 1.493,
+                          "size": 14
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "162": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxdota2game-26nov020400synxe?marketTicker=kxdota2game-26nov020400synxe-syn",
+                    "bookmakerOutcomeId": "KXDOTA2GAME-26NOV020400SYNXE-SYN:yes",
+                    "bookmakerChangedAt": "2026-11-03T16:36:03.199Z",
+                    "changedAt": "2026-11-03T16:36:03.480Z",
+                    "limit": 18.6,
+                    "playerName": null,
+                    "price": 1.613,
+                    "priceAmerican": "-163",
+                    "priceFractional": "19/31",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.62,
+                          "limit": 18.6,
+                          "price": 1.613,
+                          "size": 30
+                        },
+                        {
+                          "cents": 0.63,
+                          "limit": 4.41,
+                          "price": 1.587,
+                          "size": 7
+                        },
+                        {
+                          "cents": 0.66,
+                          "limit": 15.84,
+                          "price": 1.515,
+                          "size": 24
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXDOTA2GAME-26NOV020400SYNXE-SYN:no",
+                      "lay": [
+                        {
+                          "cents": 0.56,
+                          "limit": 5.04,
+                          "price": 1.786,
+                          "size": 9
+                        },
+                        {
+                          "cents": 0.57,
+                          "limit": 29.07,
+                          "price": 1.754,
+                          "size": 51
+                        },
+                        {
+                          "cents": 0.59,
+                          "limit": 121.54,
+                          "price": 1.695,
+                          "size": 206
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "163": {
+            "bookmakerMarketId": "KXDOTA2TOTALMAPS-26NOV020400SYNXE",
+            "marketActive": true,
+            "outcomes": {
+              "163": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxdota2totalmaps-26nov020400synxe?marketTicker=kxdota2totalmaps-26nov020400synxe-3",
+                    "bookmakerOutcomeId": "KXDOTA2TOTALMAPS-26NOV020400SYNXE-3:yes",
+                    "bookmakerChangedAt": "2026-11-03T15:53:25.939Z",
+                    "changedAt": "2026-11-03T15:53:26.047Z",
+                    "limit": 0.1,
+                    "playerName": null,
+                    "price": 1.02,
+                    "priceAmerican": "-5000",
+                    "priceFractional": "1/50",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.98,
+                          "limit": 0.1,
+                          "price": 1.02,
+                          "size": 0.1
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 41.58,
+                          "price": 1.01,
+                          "size": 42
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXDOTA2TOTALMAPS-26NOV020400SYNXE-3:no",
+                      "lay": [
+                        {
+                          "cents": 0.98,
+                          "limit": 0.1,
+                          "price": 1.02,
+                          "size": 0.1
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "164": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxdota2totalmaps-26nov020400synxe?marketTicker=kxdota2totalmaps-26nov020400synxe-3",
+                    "bookmakerOutcomeId": "KXDOTA2TOTALMAPS-26NOV020400SYNXE-3:no",
+                    "bookmakerChangedAt": "2026-11-03T15:53:25.939Z",
+                    "changedAt": "2026-11-03T15:53:26.047Z",
+                    "limit": 0.1,
+                    "playerName": null,
+                    "price": 1.02,
+                    "priceAmerican": "-5000",
+                    "priceFractional": "1/50",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.98,
+                          "limit": 0.1,
+                          "price": 1.02,
+                          "size": 0.1
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXDOTA2TOTALMAPS-26NOV020400SYNXE-3:yes",
+                      "lay": [
+                        {
+                          "cents": 0.98,
+                          "limit": 0.1,
+                          "price": 1.02,
+                          "size": 0.1
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 41.58,
+                          "price": 1.01,
+                          "size": 42
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "1647": {
+            "bookmakerMarketId": "KXDOTA2MAP-26NOV020400SYNXE-1",
+            "marketActive": true,
+            "outcomes": {
+              "1647": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxdota2map-26nov020400synxe-1?marketTicker=kxdota2map-26nov020400synxe-1-xe",
+                    "bookmakerOutcomeId": "KXDOTA2MAP-26NOV020400SYNXE-1-XE:yes",
+                    "bookmakerChangedAt": "2026-11-03T16:35:45.931Z",
+                    "changedAt": "2026-11-03T16:35:46.430Z",
+                    "limit": 0.97,
+                    "playerName": null,
+                    "price": 1.031,
+                    "priceAmerican": "-3226",
+                    "priceFractional": "3/97",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.97,
+                          "limit": 0.97,
+                          "price": 1.031,
+                          "size": 1
+                        },
+                        {
+                          "cents": 0.98,
+                          "limit": 0.98,
+                          "price": 1.02,
+                          "size": 1
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 255.42,
+                          "price": 1.01,
+                          "size": 258
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXDOTA2MAP-26NOV020400SYNXE-1-XE:no",
+                      "lay": [
+                        {
+                          "cents": 0.98,
+                          "limit": 0.1,
+                          "price": 1.02,
+                          "size": 0.1
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 4.95,
+                          "price": 1.01,
+                          "size": 5
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "1648": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxdota2map-26nov020400synxe-1?marketTicker=kxdota2map-26nov020400synxe-1-syn",
+                    "bookmakerOutcomeId": "KXDOTA2MAP-26NOV020400SYNXE-1-SYN:yes",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-03T12:57:12.811Z",
+                    "limit": 0.95,
+                    "playerName": null,
+                    "price": 1.053,
+                    "priceAmerican": "-1887",
+                    "priceFractional": "5/94",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.95,
+                          "limit": 0.95,
+                          "price": 1.053,
+                          "size": 1
+                        },
+                        {
+                          "cents": 0.97,
+                          "limit": 0.97,
+                          "price": 1.031,
+                          "size": 1
+                        },
+                        {
+                          "cents": 0.98,
+                          "limit": 0.98,
+                          "price": 1.02,
+                          "size": 1
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXDOTA2MAP-26NOV020400SYNXE-1-SYN:no",
+                      "lay": [
+                        {
+                          "cents": 0.93,
+                          "limit": 0.93,
+                          "price": 1.075,
+                          "size": 1
+                        },
+                        {
+                          "cents": 0.98,
+                          "limit": 0.1,
+                          "price": 1.02,
+                          "size": 0.1
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 4.95,
+                          "price": 1.01,
+                          "size": 5
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "1649": {
+            "bookmakerMarketId": "KXDOTA2MAP-26NOV020400SYNXE-2",
+            "marketActive": true,
+            "outcomes": {
+              "1649": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxdota2map-26nov020400synxe-2?marketTicker=kxdota2map-26nov020400synxe-2-xe",
+                    "bookmakerOutcomeId": "KXDOTA2MAP-26NOV020400SYNXE-2-XE:yes",
+                    "bookmakerChangedAt": "2026-11-03T15:53:25.992Z",
+                    "changedAt": "2026-11-03T15:53:26.321Z",
+                    "limit": 0.95,
+                    "playerName": null,
+                    "price": 1.053,
+                    "priceAmerican": "-1887",
+                    "priceFractional": "5/94",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.95,
+                          "limit": 0.95,
+                          "price": 1.053,
+                          "size": 1
+                        },
+                        {
+                          "cents": 0.98,
+                          "limit": 123.48,
+                          "price": 1.02,
+                          "size": 126
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 254.43,
+                          "price": 1.01,
+                          "size": 257
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXDOTA2MAP-26NOV020400SYNXE-2-XE:no",
+                      "lay": [
+                        {
+                          "cents": 0.93,
+                          "limit": 0.93,
+                          "price": 1.075,
+                          "size": 1
+                        },
+                        {
+                          "cents": 0.98,
+                          "limit": 18.72,
+                          "price": 1.02,
+                          "size": 19.1
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 4.95,
+                          "price": 1.01,
+                          "size": 5
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "1650": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxdota2map-26nov020400synxe-2?marketTicker=kxdota2map-26nov020400synxe-2-syn",
+                    "bookmakerOutcomeId": "KXDOTA2MAP-26NOV020400SYNXE-2-SYN:yes",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-03T12:57:02.789Z",
+                    "limit": 0.89,
+                    "playerName": null,
+                    "price": 1.124,
+                    "priceAmerican": "-806",
+                    "priceFractional": "12/97",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.89,
+                          "limit": 0.89,
+                          "price": 1.124,
+                          "size": 1
+                        },
+                        {
+                          "cents": 0.92,
+                          "limit": 1.84,
+                          "price": 1.087,
+                          "size": 2
+                        },
+                        {
+                          "cents": 0.93,
+                          "limit": 0.93,
+                          "price": 1.075,
+                          "size": 1
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXDOTA2MAP-26NOV020400SYNXE-2-SYN:no",
+                      "lay": [
+                        {
+                          "cents": 0.95,
+                          "limit": 0.95,
+                          "price": 1.053,
+                          "size": 1
+                        },
+                        {
+                          "cents": 0.98,
+                          "limit": 18.72,
+                          "price": 1.02,
+                          "size": 19.1
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 4.95,
+                          "price": 1.01,
+                          "size": 5
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "polymarket": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "1297539",
+        "fixturePath": "https://polymarket.com/event/dota2-xe-synaps-2026-11-02",
+        "suspended": false,
+        "markets": {
+          "161": {
+            "bookmakerMarketId": "6552390",
+            "marketActive": true,
+            "outcomes": {
+              "161": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "93341852465254679099859086750745162351308088370736482563245692142982590041045",
+                    "bookmakerChangedAt": "2026-11-03T16:35:15.310Z",
+                    "changedAt": "2026-11-03T16:35:15.716Z",
+                    "limit": 9.4,
+                    "playerName": null,
+                    "price": 2.128,
+                    "priceAmerican": "113",
+                    "priceFractional": "97/86",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.47,
+                          "limit": 9.4,
+                          "price": 2.128,
+                          "size": 20
+                        },
+                        {
+                          "cents": 0.48,
+                          "limit": 7.6,
+                          "price": 2.083,
+                          "size": 15.83
+                        },
+                        {
+                          "cents": 0.5,
+                          "limit": 15,
+                          "price": 2,
+                          "size": 30
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "36931374848405917326962767454704157540292150023346074260471260050688462399668",
+                      "lay": [
+                        {
+                          "cents": 0.65,
+                          "limit": 7.26,
+                          "price": 1.538,
+                          "size": 11.17
+                        },
+                        {
+                          "cents": 0.68,
+                          "limit": 13.6,
+                          "price": 1.471,
+                          "size": 20
+                        },
+                        {
+                          "cents": 0.69,
+                          "limit": 29.12,
+                          "price": 1.449,
+                          "size": 42.2
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "162": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "36931374848405917326962767454704157540292150023346074260471260050688462399668",
+                    "bookmakerChangedAt": "2026-11-03T16:35:15.310Z",
+                    "changedAt": "2026-11-03T16:35:15.716Z",
+                    "limit": 7.26,
+                    "playerName": null,
+                    "price": 1.538,
+                    "priceAmerican": "-186",
+                    "priceFractional": "50/93",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.65,
+                          "limit": 7.26,
+                          "price": 1.538,
+                          "size": 11.17
+                        },
+                        {
+                          "cents": 0.68,
+                          "limit": 13.6,
+                          "price": 1.471,
+                          "size": 20
+                        },
+                        {
+                          "cents": 0.69,
+                          "limit": 29.12,
+                          "price": 1.449,
+                          "size": 42.2
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "93341852465254679099859086750745162351308088370736482563245692142982590041045",
+                      "lay": [
+                        {
+                          "cents": 0.47,
+                          "limit": 9.4,
+                          "price": 2.128,
+                          "size": 20
+                        },
+                        {
+                          "cents": 0.48,
+                          "limit": 7.6,
+                          "price": 2.083,
+                          "size": 15.83
+                        },
+                        {
+                          "cents": 0.5,
+                          "limit": 15,
+                          "price": 2,
+                          "size": 30
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "163": {
+            "bookmakerMarketId": "6552391",
+            "marketActive": false,
+            "outcomes": {
+              "163": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "14032588741411162340739302155768055158435179240872963934044071980492001468528",
+                    "bookmakerChangedAt": "2026-11-03T14:56:33.575Z",
+                    "changedAt": "2026-11-03T14:56:33.652Z",
+                    "limit": 4,
+                    "playerName": null,
+                    "price": 2,
+                    "priceAmerican": "100",
+                    "priceFractional": "1/1",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.5,
+                          "limit": 4,
+                          "price": 2,
+                          "size": 8
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "113466198409733406846992894738459625085253016632001928447942886906971708760526",
+                      "lay": []
+                    }
+                  }
+                }
+              },
+              "164": {
+                "players": {
+                  "0": {
+                    "active": false,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "113466198409733406846992894738459625085253016632001928447942886906971708760526",
+                    "bookmakerChangedAt": "2026-11-03T14:56:33.575Z",
+                    "changedAt": "2026-11-03T14:56:33.652Z",
+                    "limit": 0,
+                    "playerName": null,
+                    "price": 1.053,
+                    "priceAmerican": "-1887",
+                    "priceFractional": "5/94",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [],
+                      "bookmakerLayOutcomeId": "14032588741411162340739302155768055158435179240872963934044071980492001468528",
+                      "lay": [
+                        {
+                          "cents": 0.5,
+                          "limit": 4,
+                          "price": 2,
+                          "size": 8
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "1647": {
+            "bookmakerMarketId": "6552388",
+            "marketActive": true,
+            "outcomes": {
+              "1647": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "8372731314325084688283726906933890401429836540680153020346559187791881187335",
+                    "bookmakerChangedAt": "2026-11-03T12:26:12.148Z",
+                    "changedAt": "2026-11-03T12:26:12.526Z",
+                    "limit": 22.58,
+                    "playerName": null,
+                    "price": 1.02,
+                    "priceAmerican": "-5000",
+                    "priceFractional": "1/50",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.98,
+                          "limit": 22.58,
+                          "price": 1.02,
+                          "size": 23.04
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 311.76,
+                          "price": 1.01,
+                          "size": 314.91
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "67547544432834941254043867685428395647690581389252499166040663008920960072175",
+                      "lay": [
+                        {
+                          "cents": 0.98,
+                          "limit": 23.58,
+                          "price": 1.02,
+                          "size": 24.06
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 309.74,
+                          "price": 1.01,
+                          "size": 312.87
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "1648": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "67547544432834941254043867685428395647690581389252499166040663008920960072175",
+                    "bookmakerChangedAt": "2026-11-03T12:26:12.148Z",
+                    "changedAt": "2026-11-03T13:14:48.387Z",
+                    "limit": 23.58,
+                    "playerName": null,
+                    "price": 1.02,
+                    "priceAmerican": "-5000",
+                    "priceFractional": "1/50",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.98,
+                          "limit": 23.58,
+                          "price": 1.02,
+                          "size": 24.06
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 309.74,
+                          "price": 1.01,
+                          "size": 312.87
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "8372731314325084688283726906933890401429836540680153020346559187791881187335",
+                      "lay": [
+                        {
+                          "cents": 0.98,
+                          "limit": 22.58,
+                          "price": 1.02,
+                          "size": 23.04
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 311.76,
+                          "price": 1.01,
+                          "size": 314.91
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "1649": {
+            "bookmakerMarketId": "6552389",
+            "marketActive": true,
+            "outcomes": {
+              "1649": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "53300577107755718518635557748459468348053427921822919218478715340501461956937",
+                    "bookmakerChangedAt": "2026-11-03T16:35:24.086Z",
+                    "changedAt": "2026-11-03T16:35:24.263Z",
+                    "limit": 22.36,
+                    "playerName": null,
+                    "price": 1.02,
+                    "priceAmerican": "-5000",
+                    "priceFractional": "1/50",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.98,
+                          "limit": 22.36,
+                          "price": 1.02,
+                          "size": 22.82
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 312.2,
+                          "price": 1.01,
+                          "size": 315.35
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "44804189863573535816238178225580874006249234201385447146631783081699835950776",
+                      "lay": [
+                        {
+                          "cents": 0.97,
+                          "limit": 12.47,
+                          "price": 1.031,
+                          "size": 12.86
+                        },
+                        {
+                          "cents": 0.98,
+                          "limit": 196.98,
+                          "price": 1.02,
+                          "size": 201
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 319.18,
+                          "price": 1.01,
+                          "size": 322.4
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "1650": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "44804189863573535816238178225580874006249234201385447146631783081699835950776",
+                    "bookmakerChangedAt": "2026-11-03T16:35:24.086Z",
+                    "changedAt": "2026-11-03T16:35:24.263Z",
+                    "limit": 12.47,
+                    "playerName": null,
+                    "price": 1.031,
+                    "priceAmerican": "-3226",
+                    "priceFractional": "3/97",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.97,
+                          "limit": 12.47,
+                          "price": 1.031,
+                          "size": 12.86
+                        },
+                        {
+                          "cents": 0.98,
+                          "limit": 196.98,
+                          "price": 1.02,
+                          "size": 201
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 319.18,
+                          "price": 1.01,
+                          "size": 322.4
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "53300577107755718518635557748459468348053427921822919218478715340501461956937",
+                      "lay": [
+                        {
+                          "cents": 0.98,
+                          "limit": 22.36,
+                          "price": 1.02,
+                          "size": 22.82
+                        },
+                        {
+                          "cents": 0.99,
+                          "limit": 312.2,
+                          "price": 1.01,
+                          "size": 315.35
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
