@@ -1,0 +1,991 @@
+{
+  "ok": true,
+  "fixtureId": "id1705104276203510",
+  "data": {
+    "fixtureId": "id1705104276203510",
+    "participant1Id": 1345124,
+    "participant2Id": 1368538,
+    "sportId": 17,
+    "tournamentId": 51042,
+    "seasonId": null,
+    "statusId": null,
+    "hasOdds": true,
+    "startTime": "2026-11-04T19:00:00.000Z",
+    "trueStartTime": null,
+    "trueEndTime": null,
+    "updatedAt": "2026-11-04T16:11:18.530Z",
+    "externalProviders": {
+      "betradarId": 76203510,
+      "mollybetId": null,
+      "opticoddsId": "20261104D84F4EAC",
+      "lsportsId": null,
+      "txoddsId": null,
+      "sofascoreId": null,
+      "betgeniusId": null,
+      "flashscoreId": null,
+      "pinnacleId": null,
+      "oddinId": null
+    },
+    "participant1Name": "Low Cortisol Gaming",
+    "participant1ShortName": "Low Cortisol Gaming",
+    "participant1Abbr": "LOW",
+    "participant2Name": "Borracheiros",
+    "participant2ShortName": "Borracheiros",
+    "participant2Abbr": "BOR",
+    "sportName": "ESport Counter-Strike",
+    "tournamentSlug": "cct-south-american-series",
+    "categorySlug": "cct",
+    "categoryName": "CCT",
+    "tournamentName": "CCT South America Series",
+    "bookmakerOdds": {
+      "coral": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "47314523",
+        "fixturePath": "https://sports.coral.co.uk/event/football/football/s/e/47314523",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "1075558197",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "3652139973",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:33.391Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.28,
+                    "priceAmerican": "-357",
+                    "priceFractional": "7/25",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "3652139972",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:33.391Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.5,
+                    "priceAmerican": "250",
+                    "priceFractional": "5/2",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "1075558196",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "3652139971",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:33.391Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.4,
+                    "priceAmerican": "-250",
+                    "priceFractional": "2/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "3652139970",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:33.391Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 2.75,
+                    "priceAmerican": "175",
+                    "priceFractional": "7/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1749": {
+            "bookmakerMarketId": "1075558198",
+            "marketActive": true,
+            "outcomes": {
+              "1749": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "3652139975",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:33.391Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.4,
+                    "priceAmerican": "-250",
+                    "priceFractional": "2/5",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1750": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "3652139974",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:33.391Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 2.75,
+                    "priceAmerican": "175",
+                    "priceFractional": "7/4",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1751": {
+            "bookmakerMarketId": "1075558199",
+            "marketActive": true,
+            "outcomes": {
+              "1751": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "3652139977",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:33.391Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.44,
+                    "priceAmerican": "-227",
+                    "priceFractional": "11/25",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1752": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "3652139976",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:33.391Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 2.62,
+                    "priceAmerican": "162",
+                    "priceFractional": "81/50",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "kalshi": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "KXCS2GAME-26NOV041400LOWCHAMA",
+        "fixturePath": "https://kalshi.com/markets/kxcs2game/e#kxcs2game-26nov041400lowchama",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "KXCS2GAME-26NOV041400LOWCHAMA",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxcs2game-26nov041400lowchama?marketTicker=kxcs2game-26nov041400lowchama-low",
+                    "bookmakerOutcomeId": "KXCS2GAME-26NOV041400LOWCHAMA-LOW:yes",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:17:43.488Z",
+                    "limit": 15.2,
+                    "playerName": null,
+                    "price": 1.316,
+                    "priceAmerican": "-316",
+                    "priceFractional": "6/19",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.76,
+                          "limit": 15.2,
+                          "price": 1.316,
+                          "size": 20
+                        },
+                        {
+                          "cents": 0.77,
+                          "limit": 281.82,
+                          "price": 1.299,
+                          "size": 366
+                        },
+                        {
+                          "cents": 0.78,
+                          "limit": 143.52,
+                          "price": 1.282,
+                          "size": 184
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXCS2GAME-26NOV041400LOWCHAMA-LOW:no",
+                      "lay": [
+                        {
+                          "cents": 0.25,
+                          "limit": 220.75,
+                          "price": 4,
+                          "size": 883
+                        },
+                        {
+                          "cents": 0.26,
+                          "limit": 123.76,
+                          "price": 3.846,
+                          "size": 476
+                        },
+                        {
+                          "cents": 0.27,
+                          "limit": 81.81,
+                          "price": 3.704,
+                          "size": 303
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxcs2game-26nov041400lowchama?marketTicker=kxcs2game-26nov041400lowchama-chama",
+                    "bookmakerOutcomeId": "KXCS2GAME-26NOV041400LOWCHAMA-CHAMA:yes",
+                    "bookmakerChangedAt": "2026-11-04T16:19:22.275Z",
+                    "changedAt": "2026-11-04T16:19:22.541Z",
+                    "limit": 128.16,
+                    "playerName": null,
+                    "price": 4.167,
+                    "priceAmerican": "317",
+                    "priceFractional": "19/6",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.24,
+                          "limit": 128.16,
+                          "price": 4.167,
+                          "size": 534
+                        },
+                        {
+                          "cents": 0.25,
+                          "limit": 47.57,
+                          "price": 4,
+                          "size": 190.27
+                        },
+                        {
+                          "cents": 0.26,
+                          "limit": 302.12,
+                          "price": 3.846,
+                          "size": 1162
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXCS2GAME-26NOV041400LOWCHAMA-CHAMA:no",
+                      "lay": [
+                        {
+                          "cents": 0.78,
+                          "limit": 391.56,
+                          "price": 1.282,
+                          "size": 502
+                        },
+                        {
+                          "cents": 0.79,
+                          "limit": 226.76,
+                          "price": 1.266,
+                          "size": 287.04
+                        },
+                        {
+                          "cents": 0.8,
+                          "limit": 860.04,
+                          "price": 1.25,
+                          "size": 1075.05
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "173": {
+            "bookmakerMarketId": "KXCS2TOTALMAPS-26NOV041400LOWCHAMA",
+            "marketActive": true,
+            "outcomes": {
+              "173": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxcs2totalmaps-26nov041400lowchama?marketTicker=kxcs2totalmaps-26nov041400lowchama-3",
+                    "bookmakerOutcomeId": "KXCS2TOTALMAPS-26NOV041400LOWCHAMA-3:yes",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:17:43.488Z",
+                    "limit": 0,
+                    "playerName": null,
+                    "price": 2.632,
+                    "priceAmerican": "163",
+                    "priceFractional": "142/87",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.38,
+                          "limit": 0,
+                          "price": 2.632,
+                          "size": 0.01
+                        },
+                        {
+                          "cents": 0.39,
+                          "limit": 12.78,
+                          "price": 2.564,
+                          "size": 32.77
+                        },
+                        {
+                          "cents": 0.4,
+                          "limit": 236.8,
+                          "price": 2.5,
+                          "size": 592.01
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXCS2TOTALMAPS-26NOV041400LOWCHAMA-3:no",
+                      "lay": [
+                        {
+                          "cents": 0.66,
+                          "limit": 16.5,
+                          "price": 1.515,
+                          "size": 25
+                        },
+                        {
+                          "cents": 0.67,
+                          "limit": 329.64,
+                          "price": 1.493,
+                          "size": 492
+                        },
+                        {
+                          "cents": 0.78,
+                          "limit": 939.9,
+                          "price": 1.282,
+                          "size": 1205
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "174": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxcs2totalmaps-26nov041400lowchama?marketTicker=kxcs2totalmaps-26nov041400lowchama-3",
+                    "bookmakerOutcomeId": "KXCS2TOTALMAPS-26NOV041400LOWCHAMA-3:no",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:17:43.488Z",
+                    "limit": 16.5,
+                    "playerName": null,
+                    "price": 1.515,
+                    "priceAmerican": "-194",
+                    "priceFractional": "17/33",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.66,
+                          "limit": 16.5,
+                          "price": 1.515,
+                          "size": 25
+                        },
+                        {
+                          "cents": 0.67,
+                          "limit": 329.64,
+                          "price": 1.493,
+                          "size": 492
+                        },
+                        {
+                          "cents": 0.78,
+                          "limit": 939.9,
+                          "price": 1.282,
+                          "size": 1205
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXCS2TOTALMAPS-26NOV041400LOWCHAMA-3:yes",
+                      "lay": [
+                        {
+                          "cents": 0.38,
+                          "limit": 0,
+                          "price": 2.632,
+                          "size": 0.01
+                        },
+                        {
+                          "cents": 0.39,
+                          "limit": 12.78,
+                          "price": 2.564,
+                          "size": 32.77
+                        },
+                        {
+                          "cents": 0.4,
+                          "limit": 236.8,
+                          "price": 2.5,
+                          "size": 592.01
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "KXCS2MAP-26NOV041400LOWCHAMA-1",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxcs2map-26nov041400lowchama-1?marketTicker=kxcs2map-26nov041400lowchama-1-low",
+                    "bookmakerOutcomeId": "KXCS2MAP-26NOV041400LOWCHAMA-1-LOW:yes",
+                    "bookmakerChangedAt": "2026-11-04T16:18:15.780Z",
+                    "changedAt": "2026-11-04T16:18:16.086Z",
+                    "limit": 12.07,
+                    "playerName": null,
+                    "price": 1.408,
+                    "priceAmerican": "-245",
+                    "priceFractional": "31/76",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.71,
+                          "limit": 12.07,
+                          "price": 1.408,
+                          "size": 17
+                        },
+                        {
+                          "cents": 0.73,
+                          "limit": 62.78,
+                          "price": 1.37,
+                          "size": 86
+                        },
+                        {
+                          "cents": 0.74,
+                          "limit": 585.34,
+                          "price": 1.351,
+                          "size": 791
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXCS2MAP-26NOV041400LOWCHAMA-1-LOW:no",
+                      "lay": [
+                        {
+                          "cents": 0.3,
+                          "limit": 97.8,
+                          "price": 3.333,
+                          "size": 326
+                        },
+                        {
+                          "cents": 0.33,
+                          "limit": 369.27,
+                          "price": 3.03,
+                          "size": 1119
+                        },
+                        {
+                          "cents": 0.34,
+                          "limit": 23.8,
+                          "price": 2.941,
+                          "size": 70
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxcs2map-26nov041400lowchama-1?marketTicker=kxcs2map-26nov041400lowchama-1-chama",
+                    "bookmakerOutcomeId": "KXCS2MAP-26NOV041400LOWCHAMA-1-CHAMA:yes",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:17:43.488Z",
+                    "limit": 294.33,
+                    "playerName": null,
+                    "price": 3.226,
+                    "priceAmerican": "223",
+                    "priceFractional": "187/84",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.31,
+                          "limit": 294.33,
+                          "price": 3.226,
+                          "size": 949.45
+                        },
+                        {
+                          "cents": 0.32,
+                          "limit": 82.56,
+                          "price": 3.125,
+                          "size": 258
+                        },
+                        {
+                          "cents": 0.33,
+                          "limit": 70.62,
+                          "price": 3.03,
+                          "size": 214
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXCS2MAP-26NOV041400LOWCHAMA-1-CHAMA:no",
+                      "lay": [
+                        {
+                          "cents": 0.72,
+                          "limit": 12.24,
+                          "price": 1.389,
+                          "size": 17
+                        },
+                        {
+                          "cents": 0.73,
+                          "limit": 576.7,
+                          "price": 1.37,
+                          "size": 790
+                        },
+                        {
+                          "cents": 0.75,
+                          "limit": 445.5,
+                          "price": 1.333,
+                          "size": 594
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "1749": {
+            "bookmakerMarketId": "KXCS2MAP-26NOV041400LOWCHAMA-2",
+            "marketActive": true,
+            "outcomes": {
+              "1749": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxcs2map-26nov041400lowchama-2?marketTicker=kxcs2map-26nov041400lowchama-2-low",
+                    "bookmakerOutcomeId": "KXCS2MAP-26NOV041400LOWCHAMA-2-LOW:yes",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:17:43.488Z",
+                    "limit": 54.06,
+                    "playerName": null,
+                    "price": 1.37,
+                    "priceAmerican": "-270",
+                    "priceFractional": "37/100",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.73,
+                          "limit": 54.06,
+                          "price": 1.37,
+                          "size": 74.06
+                        },
+                        {
+                          "cents": 0.74,
+                          "limit": 520.96,
+                          "price": 1.351,
+                          "size": 704
+                        },
+                        {
+                          "cents": 0.75,
+                          "limit": 133.5,
+                          "price": 1.333,
+                          "size": 178
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXCS2MAP-26NOV041400LOWCHAMA-2-LOW:no",
+                      "lay": [
+                        {
+                          "cents": 0.33,
+                          "limit": 106.59,
+                          "price": 3.03,
+                          "size": 323
+                        },
+                        {
+                          "cents": 0.34,
+                          "limit": 295.46,
+                          "price": 2.941,
+                          "size": 869
+                        },
+                        {
+                          "cents": 0.39,
+                          "limit": 1.95,
+                          "price": 2.564,
+                          "size": 5
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "1750": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": "https://kalshi.com/markets/kx/pro/kxcs2map-26nov041400lowchama-2?marketTicker=kxcs2map-26nov041400lowchama-2-chama",
+                    "bookmakerOutcomeId": "KXCS2MAP-26NOV041400LOWCHAMA-2-CHAMA:yes",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:17:43.488Z",
+                    "limit": 9.41,
+                    "playerName": null,
+                    "price": 3.125,
+                    "priceAmerican": "212",
+                    "priceFractional": "17/8",
+                    "mainLine": true,
+                    "exchangeMeta": {
+                      "back": [
+                        {
+                          "cents": 0.32,
+                          "limit": 9.41,
+                          "price": 3.125,
+                          "size": 29.4
+                        },
+                        {
+                          "cents": 0.33,
+                          "limit": 231.66,
+                          "price": 3.03,
+                          "size": 702
+                        },
+                        {
+                          "cents": 0.34,
+                          "limit": 94.52,
+                          "price": 2.941,
+                          "size": 278
+                        }
+                      ],
+                      "bookmakerLayOutcomeId": "KXCS2MAP-26NOV041400LOWCHAMA-2-CHAMA:no",
+                      "lay": [
+                        {
+                          "cents": 0.74,
+                          "limit": 62.9,
+                          "price": 1.351,
+                          "size": 85
+                        },
+                        {
+                          "cents": 0.75,
+                          "limit": 464.25,
+                          "price": 1.333,
+                          "size": 619
+                        },
+                        {
+                          "cents": 0.76,
+                          "limit": 448.4,
+                          "price": 1.316,
+                          "size": 590
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "overtime.io": {
+        "bookmakerIsActive": true,
+        "bookmakerFixtureId": "0x3230323631313034443834463445414300000000000000000000000000000000",
+        "fixturePath": "0x3230323631313034443834463445414300000000000000000000000000000000",
+        "suspended": false,
+        "markets": {
+          "171": {
+            "bookmakerMarketId": "0",
+            "marketActive": true,
+            "outcomes": {
+              "171": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:43.246Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.247,
+                    "priceAmerican": "-405",
+                    "priceFractional": "21/85",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "172": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:43.246Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 3.507,
+                    "priceAmerican": "251",
+                    "priceFractional": "178/71",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "173": {
+            "bookmakerMarketId": "10002",
+            "marketActive": true,
+            "outcomes": {
+              "173": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:43.246Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 2.497,
+                    "priceAmerican": "150",
+                    "priceFractional": "148/99",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "174": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:43.246Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.481,
+                    "priceAmerican": "-208",
+                    "priceFractional": "38/79",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1725": {
+            "bookmakerMarketId": "10001",
+            "marketActive": true,
+            "outcomes": {
+              "1725": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:43.246Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.796,
+                    "priceAmerican": "-126",
+                    "priceFractional": "39/49",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1726": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:43.246Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.944,
+                    "priceAmerican": "-106",
+                    "priceFractional": "84/89",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1747": {
+            "bookmakerMarketId": "10021",
+            "marketActive": true,
+            "outcomes": {
+              "1747": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:43.246Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.376,
+                    "priceAmerican": "-266",
+                    "priceFractional": "35/93",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1748": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:43.246Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 2.834,
+                    "priceAmerican": "183",
+                    "priceFractional": "11/6",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1749": {
+            "bookmakerMarketId": "10022",
+            "marketActive": true,
+            "outcomes": {
+              "1749": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:43.246Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.351,
+                    "priceAmerican": "-285",
+                    "priceFractional": "33/94",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1750": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:43.246Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 2.933,
+                    "priceAmerican": "193",
+                    "priceFractional": "29/15",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          },
+          "1751": {
+            "bookmakerMarketId": "10023",
+            "marketActive": true,
+            "outcomes": {
+              "1751": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:43.246Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 1.407,
+                    "priceAmerican": "-246",
+                    "priceFractional": "35/86",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              },
+              "1752": {
+                "players": {
+                  "0": {
+                    "active": true,
+                    "betslip": null,
+                    "bookmakerOutcomeId": "",
+                    "bookmakerChangedAt": null,
+                    "changedAt": "2026-11-04T16:12:43.246Z",
+                    "limit": null,
+                    "playerName": null,
+                    "price": 2.724,
+                    "priceAmerican": "172",
+                    "priceFractional": "50/29",
+                    "mainLine": true,
+                    "exchangeMeta": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
